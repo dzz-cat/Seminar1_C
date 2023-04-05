@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\education\\репозитории\\kurs_c\\HelloConsole\\HelloConsole.csproj",
-      "projectName": "HelloConsole",
-      "projectPath": "D:\\education\\репозитории\\kurs_c\\HelloConsole\\HelloConsole.csproj",
+      "projectUniqueName": "D:\\education\\репозитории\\kurs_c\\HelloUser\\HelloUser.csproj",
+      "projectName": "HelloUser",
+      "projectPath": "D:\\education\\репозитории\\kurs_c\\HelloUser\\HelloUser.csproj",
       "packagesPath": "C:\\Users\\zasolova-iv\\.nuget\\packages\\",
-      "outputPath": "D:\\education\\репозитории\\kurs_c\\HelloConsole\\obj\\",
+      "outputPath": "D:\\education\\репозитории\\kurs_c\\HelloUser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zasolova-iv\\AppData\\Roaming\\NuGet\\NuGet.Config"
